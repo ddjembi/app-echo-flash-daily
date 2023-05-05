@@ -1,0 +1,26 @@
+[
+    {
+        "event_name": "Peru - Severe weather",
+        "country_id": "PER",
+        "event_id": "ST",
+        "event_authority": "NOAA-CPC, COEN INDECI"
+    },
+    {
+        "event_name": "Burundi - Floods and landslides",
+        "country_id": "BDI",
+        "event_id": "FL",
+        "event_authority": "IGEBU, FloodList, media"
+    },
+    {
+        "event_name": "Mali – Civilian victims of improvised explosive devices/IEDs, Mopti, circle of Djenné",
+        "country_id": "MLI",
+        "event_id": "UR",
+        "event_authority": "DG ECHO, DG ECHO Partners, media"
+    },
+    {
+        "event_name": "Russia - Volcanic eruption",
+        "country_id": "RUS",
+        "event_id": "VO",
+        "event_authority": "KVERT, GDACS, media , media"
+    }
+]

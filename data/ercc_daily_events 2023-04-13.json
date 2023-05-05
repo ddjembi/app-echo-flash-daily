@@ -1,0 +1,26 @@
+[
+    {
+        "event_name": "Myanmar - Deadly airstrike kills over 100 people",
+        "country_id": "MMR",
+        "event_id": "CO",
+        "event_authority": "DG ECHO"
+    },
+    {
+        "event_name": "Philippines - Floods",
+        "country_id": "PHL",
+        "event_id": "FL",
+        "event_authority": "PAGASA, NOAA-CPC, ADINet, media"
+    },
+    {
+        "event_name": "Australia - Tropical Cyclone ILSA",
+        "country_id": "AUS",
+        "event_id": "TC",
+        "event_authority": "GDACS, JTWC, BOM, media"
+    },
+    {
+        "event_name": "Russia - Volcanic eruption",
+        "country_id": "RUS",
+        "event_id": "VO",
+        "event_authority": "GDACS, KVERT, media"
+    }
+]

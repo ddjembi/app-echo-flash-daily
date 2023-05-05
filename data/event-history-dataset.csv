@@ -1,0 +1,3 @@
+﻿UID;CODE;Title;Location;Event Date;Country ID;Event ID;Event Type;Country;Source;Link
+1;24278;Meteoalarm, as of 17 January at 8.00 UTC;Europe;2023-01-17 12:07:45.273;NULL;MW;Meteo Warning;NULL; EUMETNET;https://meteoalarm.org/en/?t=today
+2;24278;Meteoalarm, as of 17 January at 8.00 UTC;Europe;2023-01-17 12:07:45.273;NULL;MW;Meteo Warning;NULL;EUMETNET;https://meteoalarm.org/en/?t=tomorrow

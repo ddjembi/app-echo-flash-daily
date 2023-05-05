@@ -1,0 +1,20 @@
+[
+    {
+        "event_name": "Indonesia - Earthquake",
+        "country_id": "IDN",
+        "event_id": "EQ",
+        "event_authority": "GDACS, ADINet, BMKG, USGS"
+    },
+    {
+        "event_name": "Thailand - Severe weather",
+        "country_id": "THA",
+        "event_id": "ST",
+        "event_authority": "TMD, NOAA-CPC, ADINet"
+    },
+    {
+        "event_name": "Bangladesh - Severe weather",
+        "country_id": "BGD",
+        "event_id": "ST",
+        "event_authority": "media, BMD"
+    }
+]
