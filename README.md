@@ -7,7 +7,7 @@
 
 2/ Update .streamlit/secrets.toml with your API keys
 
-3/ add your event history the data/event-history-dataset.csv
+3/ add your event history the the data/event-history-dataset.csv file
 
 
 ## Getting started
