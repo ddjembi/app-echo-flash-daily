@@ -12,3 +12,6 @@
 1/ Open command prompt
 
 2/ streamlit run Home.py
+
+
+![[./images/screenshot.png]]
