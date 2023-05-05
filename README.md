@@ -1,4 +1,6 @@
 # app-echo-flash-daily
+## Screenshot
+![plot](./images/screenshot.png)
  
 ## Prerequisites
 1/ pip install required packages
@@ -13,5 +15,3 @@
 
 2/ streamlit run Home.py
 
-
-![[./images/screenshot.png]]
